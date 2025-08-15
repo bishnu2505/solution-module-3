@@ -35,9 +35,6 @@ section{
 #content h2{
     text-align: center;
 }
-p{
-    height:1000px;
-}
 
 @media(min-width: 768px){
     .container{
